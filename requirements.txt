@@ -1,0 +1,8 @@
+bs4
+python-dotenv
+requests
+langchain
+langchain_community
+langchain-groq
+streamlit
+ipython
